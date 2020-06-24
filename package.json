@@ -31,7 +31,7 @@
     "@babel/preset-env": "^7.4.4",
     "@babel/preset-react": "^7.0.0",
     "babel": "^6.5.2",
-    "babel-jest": "^24.7.1",
+    "babel-jest": "^26.1.0",
     "jest": "^24.7.1",
     "react-dom": "^16.8.6",
     "render-shallow": "^2.0.0",
